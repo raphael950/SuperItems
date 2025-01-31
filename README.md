@@ -1,7 +1,8 @@
 # SuperItems
 
-A minecraft plugin that add customizable behaviors to item.
-Apply superpowers to your favorites items dynamically!
+A Mincraft plugin that permits you to add custom behaviors to items.</br>
+Create your own item behaviors through a simple configuration file. </br>
+You can code your own ItemProperty just by following [this example](https://github.com/raphael950/SuperItems/tree/85974a7fe089e61832fc04691d44bb74437c14f9/src/main/java/fr/twizox/superitem/items/properties/block).
 
 > [!IMPORTANT]
 > Made for Spigot 1.19.4
